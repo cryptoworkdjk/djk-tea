@@ -23,7 +23,14 @@
   "homepage": "https://github.com/cryptoworkdjk/djk-tea#readme",
   "dependencies": {
     "djk-tea": "^1.0.0",
-    "jest": "^28.0.0"
+    "lodash": "^4.17.21",
+    "debug": "^4.3.4",
+    "chalk": "^5.1.1",
+    "commander": "^9.4.1",
+    "jest": "^28.0.0",
+    "eslint": "^8.24.0",
+    "eslint-config-airbnb": "^19.0.0",
+    "eslint-plugin-import": "^2.26.0"
   },
   "devDependencies": {
     "webpack": "^5.72.0"
